@@ -1,0 +1,48 @@
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Exercicios-menu\bin\Debug\Exercicios-menu.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Exercicios-menu\bin\Debug\Exercicios-menu.pdb
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Exercicios-menu\obj\x86\Debug\Exercicios_menu.frmExercicios.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Exercicios-menu\obj\x86\Debug\Exercicios_menu.frmPoupanca.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Exercicios-menu\obj\x86\Debug\Exercicios_menu.Properties.Resources.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Exercicios-menu\obj\x86\Debug\Exercicios-menu.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Exercicios-menu\obj\x86\Debug\Exercicios-menu.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Exercicios-menu\obj\x86\Debug\Exercicios-menu.pdb
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios-menu.exe
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios-menu.pdb
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Exercicios-menu\Exercicios-menu\bin\Debug\Exercicios-menu.exe
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Exercicios-menu\Exercicios-menu\bin\Debug\Exercicios-menu.pdb
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios_menu.frmExercicios.resources
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios_menu.frmPoupanca.resources
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios_menu.Properties.Resources.resources
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios-menu.csproj.GenerateResource.Cache
+C:\Users\jral\Documents\Visual Studio 2010\Projects\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios-menu.exe
+C:\Users\jral\Documents\Visual Studio 2010\Projects\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios-menu.pdb
+C:\Users\jral\Documents\Visual Studio 2010\Projects\Exercicios-menu\Exercicios-menu\bin\Debug\Exercicios-menu.exe
+C:\Users\jral\Documents\Visual Studio 2010\Projects\Exercicios-menu\Exercicios-menu\bin\Debug\Exercicios-menu.pdb
+C:\Users\jral\Documents\Visual Studio 2010\Projects\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios_menu.frmExercicios.resources
+C:\Users\jral\Documents\Visual Studio 2010\Projects\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios_menu.frmPoupanca.resources
+C:\Users\jral\Documents\Visual Studio 2010\Projects\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios_menu.Properties.Resources.resources
+C:\Users\jral\Documents\Visual Studio 2010\Projects\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios-menu.csproj.GenerateResource.Cache
+C:\Users\jral\Documents\Visual Studio 2010\Projects\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios_menu.frmCinema.resources
+C:\Users\Aluno_2\Desktop\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios-menu.exe
+C:\Users\Aluno_2\Desktop\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios-menu.pdb
+C:\Users\Aluno_2\Desktop\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios_menu.frmCinema.resources
+C:\Users\Aluno_2\Desktop\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios_menu.frmExercicios.resources
+C:\Users\Aluno_2\Desktop\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios_menu.frmPoupanca.resources
+C:\Users\Aluno_2\Desktop\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios_menu.Properties.Resources.resources
+C:\Users\Aluno_2\Desktop\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios-menu.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\Desktop\Exercicios_menu\Exercicios-menu\Exercicios-menu\bin\Debug\Exercicios-menu.exe
+C:\Users\Aluno_2\Desktop\Exercicios_menu\Exercicios-menu\Exercicios-menu\bin\Debug\Exercicios-menu.pdb
+C:\Users\Aluno_2\Desktop\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios-menu.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_2\Desktop\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios_menu.frmPizzaria.resources
+F:\C#\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios-menu.exe
+F:\C#\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios-menu.pdb
+F:\C#\Exercicios_menu\Exercicios-menu\Exercicios-menu\bin\Debug\Exercicios-menu.exe
+F:\C#\Exercicios_menu\Exercicios-menu\Exercicios-menu\bin\Debug\Exercicios-menu.pdb
+F:\C#\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C#\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios_menu.frmCinema.resources
+F:\C#\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios_menu.frmExercicios.resources
+F:\C#\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios_menu.frmPoupanca.resources
+F:\C#\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios_menu.frmPizzaria.resources
+F:\C#\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\Exercicios_menu.Properties.Resources.resources
+F:\C#\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\C#\Exercicios_menu\Exercicios-menu\Exercicios-menu\obj\x86\Debug\GenerateResource.write.1.tlog
